@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the accompanying PestCLEF 2026 working note and this software repository."
+title: "PestCLEF 2026 SAS3 code and reproducibility materials"
+authors:
+  - family-names: Shintani
+    given-names: Seine A.
+year: 2026
+license: MIT
+version: 1.0.0
+repository-code: "https://github.com/SeineShintani/pestclef2026-sas3"
+keywords:
+  - PestCLEF
+  - LifeCLEF
+  - knowledge graph extraction
+  - relation extraction
+  - plant health literature
