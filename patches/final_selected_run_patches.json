@@ -1,0 +1,49 @@
+{
+  "description": "Final selected-run patches over the pre-final backbone described in the working note. Raw PestCLEF/EPOP data are not redistributed.",
+  "run_A_MonopoliOnly": [
+    {
+      "doc_id": "102433",
+      "predicate": "Transmits",
+      "subject": "Asian citrus psyllid",
+      "object": "Candidatus Liberibacter asiaticus"
+    },
+    {
+      "doc_id": "102433",
+      "predicate": "Transmits",
+      "subject": "Asian citrus psyllid",
+      "object": "CLas"
+    },
+    {
+      "doc_id": "100506",
+      "predicate": "Located_in",
+      "subject": "Xylella",
+      "object": "countryside of Monopoli"
+    }
+  ],
+  "run_B_MonopoliPlusPolignano": [
+    {
+      "doc_id": "102433",
+      "predicate": "Transmits",
+      "subject": "Asian citrus psyllid",
+      "object": "Candidatus Liberibacter asiaticus"
+    },
+    {
+      "doc_id": "102433",
+      "predicate": "Transmits",
+      "subject": "Asian citrus psyllid",
+      "object": "CLas"
+    },
+    {
+      "doc_id": "100506",
+      "predicate": "Located_in",
+      "subject": "Xylella",
+      "object": "countryside of Monopoli"
+    },
+    {
+      "doc_id": "100506",
+      "predicate": "Located_in",
+      "subject": "Xylella",
+      "object": "countryside of Polignano"
+    }
+  ]
+}
