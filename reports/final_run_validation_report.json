@@ -1,0 +1,65 @@
+[
+  {
+    "file": "submission_v43_top102433_plus_100506_countryside_both.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 933
+  },
+  {
+    "file": "submission_v43_top102433_plus_disease_transmit_aliases.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 934
+  },
+  {
+    "file": "submission_v43_top102433_plus_100506_and_disease_aliases.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 936
+  },
+  {
+    "file": "submission_v43_top102433_plus_100506_polignano_only.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 932
+  },
+  {
+    "file": "submission_v43_top102433_plus_100506_monopoli_only.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 932
+  },
+  {
+    "file": "submission_v43_optional_102433_candidatus_transmit_only.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 930
+  },
+  {
+    "file": "submission_v43_optional_102433_clas_transmit_only.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 930
+  },
+  {
+    "file": "submission_v43_optional_top102433_plus_100506_xylella_olive_countryside.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 935
+  },
+  {
+    "file": "submission_v43_optional_top102433_plus_100506_plus_clas_core.csv",
+    "rows": 82,
+    "bad_json": 0,
+    "dup_edges": 0,
+    "total_edges": 936
+  }
+]

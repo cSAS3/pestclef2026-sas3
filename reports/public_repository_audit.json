@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "num_files": 22,
+  "checks": [
+    "no manuscript PDFs",
+    "no paper/ directory",
+    "no Japanese internal instructions",
+    "no PR/admin files",
+    "no raw task data files"
+  ],
+  "problems": []
+}

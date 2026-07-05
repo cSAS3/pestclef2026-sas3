@@ -1,0 +1,3 @@
+Clean run name,Original Kaggle submission filename,Public F-score,Private F-score,Selected
+PestCLEF2026_Final_Run_A_MonopoliOnly.csv,submission_v43_top102433_plus_100506_monopoli_only.csv,0.45603,0.50952,Yes
+PestCLEF2026_Final_Run_B_MonopoliPlusPolignano.csv,submission_v43_top102433_plus_100506_countryside_both.csv,0.45603,0.50952,Yes
