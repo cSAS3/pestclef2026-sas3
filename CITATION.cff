@@ -7,7 +7,7 @@ authors:
 year: 2026
 license: MIT
 version: 1.0.0
-repository-code: "https://github.com/SeineShintani/pestclef2026-sas3"
+repository-code: "https://github.com/cSAS3/pestclef2026-sas3"
 keywords:
   - PestCLEF
   - LifeCLEF
